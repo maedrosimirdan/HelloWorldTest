@@ -1,3 +1,2 @@
 # HelloWorldTest
-Test a Hello world program
-A sample hello world program for me to test that everything is working.
+Test a Hello World sas program. Used to find the connections from cygwin to github to asana.
